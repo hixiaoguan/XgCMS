@@ -1,0 +1,9 @@
+/vendor
+/.env
+/.idea
+/resources/backhome/bower_components/
+/resources/backhome/node_modules/
+/init_migrate.lock
+/init.lock
+/init_key.lock
+/composer.lock

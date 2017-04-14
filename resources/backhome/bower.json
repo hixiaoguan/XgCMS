@@ -1,0 +1,9 @@
+{
+  "name": "jony-homer",
+  "version": "1.0.0",
+  "description": "JonyGuan",
+  "dependencies": {
+    "ueditor-for-laravel": "https://github.com/hixiaoguan/ueditor-for-laravel.git"
+  },
+  "devDependencies": {}
+}
